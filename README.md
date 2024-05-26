@@ -6,4 +6,4 @@ using Makefile to run the code:
 - Run task 1: run "mpiexec -n 4 assignment2\_1.exe 1024 4".
 - Run task 2: run "mpiexec -n 4 assignment2\_2.exe 1024".
 
-$$Attention!$$ you may need to edit the makefile to use the correct path for MPI.
+**Attention!** you may need to edit the makefile to use the correct path for MPI.
